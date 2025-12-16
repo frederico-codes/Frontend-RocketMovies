@@ -36,7 +36,7 @@ export const Container = styled.div`
         grid-area: content;
         overflow-y: scroll;
         padding: 64px 0;
-        width: 1167px;
+        width: 1180px;
         margin: 0 auto 60px;
     }
 
